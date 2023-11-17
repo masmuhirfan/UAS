@@ -9,4 +9,4 @@ link di bawah adala github project setting dan package,saya tetap mengupload nya
 sudah saya sertakan di g drive beserta project setting dan pack age
 
 https://github.com/masmuhirfan/UAS.git (NOTE SEKALI LAGI!!!! hanya berisi package dan project setting untuk asset 
-saya uploda di grdife link ada di atas
+saya uploda di gdrive link ada di atas
